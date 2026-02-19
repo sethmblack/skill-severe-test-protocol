@@ -4,7 +4,8 @@ description: Subject hypotheses, strategies, or beliefs to their strongest possi
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4953
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - severe-test-protocol
 - writing
